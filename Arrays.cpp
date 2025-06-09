@@ -14,5 +14,5 @@ void main()
 			cout << "array[" << i << "] is: " << chArray[i] << "\n";
 		}//End of for loop
 
-	}
+	}//End of if
 }
